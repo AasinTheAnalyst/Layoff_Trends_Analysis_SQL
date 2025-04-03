@@ -22,7 +22,7 @@ The dataset includes information on layoffs from different industries and countr
 - Data Cleaning techniques
 - Exploratory Data Analysis (EDA)
 
-# Steps Performed 
+## Steps Performed 
 
 1. Data Cleaning
 - Removed Duplicates
