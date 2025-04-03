@@ -38,7 +38,6 @@ The dataset includes information on layoffs from different industries and countr
 
 ## Contact
 For any queries, feel free to reach out!
-- Examined total layoffs by company, industry, and country.
 
 - gmail: aasindubey@gamil.com  
 - LinkedIn: [Aasin Dubey] https://www.linkedin.com/in/aasin-dubey/
