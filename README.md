@@ -39,7 +39,7 @@ The dataset includes information on layoffs from different industries and countr
 ## Contact
 For any queries, feel free to reach out!
 
-- gmail: aasindubey@gamil.com  
+- gmail: aasindubey@gmail.com  
 - LinkedIn: [Aasin Dubey] https://www.linkedin.com/in/aasin-dubey/
 
 ---
