@@ -1,4 +1,4 @@
-# SQL-Data-Cleaning-and-EDA-Project
+# SQL Data Cleaninga and EDA Project
 Data Cleaning and Exploratory Data Analysis using MySQL on [layoffs.csv]
 
 ## Project Overview
