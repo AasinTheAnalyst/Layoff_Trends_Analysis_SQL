@@ -1,5 +1,5 @@
 # SQL Data Cleaning and EDA Project
-Data Cleaning and Exploratory Data Analysis using MySQL on [layoffs.csv]
+Data Cleaning and Exploratory Data Analysis using MySQL on Layoffs dataset.
 
 ## Project Overview
 This project focuses on data cleaning and exploratory data analysis (EDA) using the **World Layoffs Dataset** (2020-2023). The dataset contains global layoff records from various companies.
